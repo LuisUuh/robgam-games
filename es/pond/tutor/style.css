@@ -1,0 +1,20 @@
+#help pre {
+  direction: ltr;
+  font-size: large;
+}
+figure{
+  height:30px; 
+  margin:0; 
+  padding:0;
+}
+figure img{
+  height:40px;
+}
+#cont-banner-robgam{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+#titulo-block{
+  margin-left: 80px;
+}
